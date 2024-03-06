@@ -34,3 +34,9 @@ Details about the latest releases, including key features, bug fixes, and any ot
 | Version | Release Date | Size     | Release Notes                            |
 | ------- | ------------ | -------- | ---------------------------------------- |
 | v1.0.0  | 03-04-2024   | 0.554 GB | Released Digit Recognizer Model (v1.0.0) |
+
+## Models Information
+
+| Model Name       | Model Version | Description                                                          | Release Version |
+| ---------------- | ------------- | -------------------------------------------------------------------- | --------------- |
+| Digit Recognizer | v1.0.0        | Classifies digits (0-9) from black & white and white & black images. | v1.0.0          |
