@@ -8,3 +8,10 @@ This repository contains trained & serialized models used in the Digit Recognize
 - [Usage](https://github.com/preetham-ganesh/digit-recognizer-v2-serving#usage)
 - [Releases](https://github.com/preetham-ganesh/digit-recognizer-v2-serving#releases)
 - [Models Information](https://github.com/preetham-ganesh/digit-recognizer-v2-serving#models-information)
+
+## Installation
+
+```bash
+git clone https://github.com/preetham-ganesh/digit-recognizer-v2-serving
+cd digit-recognizer-v2-serving
+```
