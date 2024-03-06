@@ -15,3 +15,14 @@ This repository contains trained & serialized models used in the Digit Recognize
 git clone https://github.com/preetham-ganesh/digit-recognizer-v2-serving
 cd digit-recognizer-v2-serving
 ```
+
+## Usage
+
+Requires: [Docker](https://www.docker.com)
+
+Use the following code snippet to deploy the docker container locally:
+
+```bash
+docker build -t digit-recognizer-v2-serving .
+docker run -p 8500:8500 -p 8501:8501 digit-recognizer-v2-serving
+```
